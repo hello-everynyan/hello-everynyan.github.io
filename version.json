@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.0",
-    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.0.exe",
-    "sha256":  "d4a13eb58939097b166607567e3f4d0683e7c82ad0d542129e9932bf66a859f9",
-    "notes":  "hello world :3",
+    "version":  "0.1.1",
+    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.1.exe",
+    "sha256":  "00df0c0873a9e4daccfd27723b7c0234016ad8a3675a3078ce4456d48dbe9409",
+    "notes":  "stays on the desktop",
     "page":  "https://hello-everynyan.github.io/",
     "feed":  "",
-    "sig":  "ReV4MfmQ+zkVGqhbG415KDfdlxtj9YioI9dJ2NeGcgAmywkoK3qHBQzGESE9p9QeBm6G4BVl9NEdX4jUgQnp0waPvQ1s+azcLal8GMzlI2rfVtROSlE6qjGgerfkPHIi+9Uqd63REtpbrov4rjnavM4LS9TTXYLYckr3PUYWnXoRCV/NOOA1iaKTTAb2zsLg5tPTT1LXlxwHSgoIH+b3gXrqf5T9jUY0a2FlRHDlTkunpNB6LfrIiBHRfS0VPpcQsrYhzZCRSVZRHTpTdZX2K4a8qkjK74qeHcR0MLpkc8OElC9o2QSzufTzyMpjOw/dw4itZjv2VxPQUMNWe4fwdQ=="
+    "sig":  "noGF1VCm9nJA/Ur3Ex/VlwqnG88QsLNcCoRXTyvXusYOj0IJbAPl9xdGNjp7vMa4sdIIvaN2j4pNpcnqrDxnsBQf5EUwtsfU7MEBxnVKWvpjrKPD+bNvhLrzNVZTc6D/3ZD3BI+6xNWXqpeOeu725B7rymNcWxjp0BvcqM3HZi3Oab62mFzc53gocfhoa7MJT/N1W//rs5K/GdZ3qwAjnBUpnHl4dvvK0bgpxHuKnR54/xVIDIlzUT5LpLfRg8FVRCa8zzNQffIF25+aMd8NSB+nB6JlKXzYWC7COC82yfYoxelXRwya3gBSSI4GW3By5Y1QRDd/A/sCKh3GhWOE6Q=="
 }
