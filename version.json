@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.4",
-    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.4.exe",
-    "sha256":  "6643d0419032955745ffa66424d7f95444b44b39804fd05c08b9cfcb08a45018",
-    "notes":  "easter eggs :3 and a sleepy-at-night switch",
+    "version":  "0.1.5",
+    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.5.exe",
+    "sha256":  "432f81b9cd664cd959dd766cc91ff34b410f50ffe616d4d0bcb2b2f1a9239613",
+    "notes":  "psst, right-click me :3",
     "page":  "https://hello-everynyan.github.io/",
     "feed":  "",
-    "sig":  "FvGwPB5Pf2QMwWKQptkNoomn1bZ1qSfL8CwvINEThWGcjDNLi+RTZyVqJ2vHdA4gDMZ6111i9JTXZ6ZRvsbAatTW8sGJpqVKq4nsSN7ckiBakRMDiTx7yDl1Z99szwHgPMMqvSQjS+QhYwAfld7UC41Yl7nJwEt3hsXzIaifXqToLeNuTTtoEnlFQmHTa65BNffr2IpcI3iOS5FKvcRIHFwFhZDXTnKIsKZyUS9jNq60QPultUsVdwG00+wCRGTLZrEH1EnL+hYYhKwTKbe718vnThFe6C/ThRYvOCjhjhhhkf2LY3wwHfJOdKCpk+rzcTjnNYR4Z0PQ/0rSwRW4vA=="
+    "sig":  "qVbcxFlAFnJY6p0ALJObk6c6/Og3Uz5Byt0mfnBmuHr8h18RniCQXXrqStHmh76BEQUaMy955r1ycbyL2ZjBeEV7xambt7fzFyIzOjX0SW3rXa8/5fKHB2+di8cW1aUwMFxpqv9x2qeWY3VISeLJs1tsPdJbx46r7ZwatZc+cQEoF+KC9TP/J4bvuKakuxtUBt/R340cdrd5RRoP/uzXSWN1mUhmJBSW6LNvnUIfisudxrm2vtpJOiQPTmhS8OZHN4T9Q7RSB6nQfSh1qXahOkZyt+rB6OB0E6Lr/WtWxGvSGIXx6AZsCosD89rDzY04VMaclK5xBNq1/ty7Mtj9oQ=="
 }
