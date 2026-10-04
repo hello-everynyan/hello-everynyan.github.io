@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.1",
-    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.1.exe",
-    "sha256":  "00df0c0873a9e4daccfd27723b7c0234016ad8a3675a3078ce4456d48dbe9409",
-    "notes":  "stays on the desktop",
+    "version":  "0.1.2",
+    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.2.exe",
+    "sha256":  "c9ef1607cdbf459cc226d1f9f60efa1c8fe35b642ebe6e4118fa54887b6b3531",
+    "notes":  "calendar stamps, your own shortcuts, one dashboard",
     "page":  "https://hello-everynyan.github.io/",
     "feed":  "",
-    "sig":  "noGF1VCm9nJA/Ur3Ex/VlwqnG88QsLNcCoRXTyvXusYOj0IJbAPl9xdGNjp7vMa4sdIIvaN2j4pNpcnqrDxnsBQf5EUwtsfU7MEBxnVKWvpjrKPD+bNvhLrzNVZTc6D/3ZD3BI+6xNWXqpeOeu725B7rymNcWxjp0BvcqM3HZi3Oab62mFzc53gocfhoa7MJT/N1W//rs5K/GdZ3qwAjnBUpnHl4dvvK0bgpxHuKnR54/xVIDIlzUT5LpLfRg8FVRCa8zzNQffIF25+aMd8NSB+nB6JlKXzYWC7COC82yfYoxelXRwya3gBSSI4GW3By5Y1QRDd/A/sCKh3GhWOE6Q=="
+    "sig":  "fqVGr8DHDwB8FD6iFTXk1Iz3f1WWPyp6Im/Ygge6wEc8E7+zMGUAGQUMh70mfotkk3a7Z76WO1qwTVGVIQ1xEOTjwTq9bJ2rsUzYW5RFKIWmiKLavfNrsGghQfxBB/shBeWOrLm7jy980ujKwm0xq9pIRCdqDQo+yHiCcNQ50EH2X8ifYPxEQVFNhsMH0olHUFlorQB4EaJVgKwFAtodsw7JLrbC8L3z/r8D0VQyUAVO3UnIJUDCVXdDsUGtlBL027pKaky7wrV5o8ueEIl/rHADy64MlbL+KL5OOWRkMg6Fwl3IlkOxDdIaB4GORF7IunaAOAZhGzYy2ngs5hj60w=="
 }
