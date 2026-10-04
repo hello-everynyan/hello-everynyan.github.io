@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.2",
-    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.2.exe",
-    "sha256":  "c9ef1607cdbf459cc226d1f9f60efa1c8fe35b642ebe6e4118fa54887b6b3531",
-    "notes":  "calendar stamps, your own shortcuts, one dashboard",
+    "version":  "0.1.3",
+    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.3.exe",
+    "sha256":  "ccb8f9ee05021451dbcec0b6840f8053f036dbc52b20036cad63909349b2ed33",
+    "notes":  "fixes: the dashboard picks up updates, journal opens right",
     "page":  "https://hello-everynyan.github.io/",
     "feed":  "",
-    "sig":  "fqVGr8DHDwB8FD6iFTXk1Iz3f1WWPyp6Im/Ygge6wEc8E7+zMGUAGQUMh70mfotkk3a7Z76WO1qwTVGVIQ1xEOTjwTq9bJ2rsUzYW5RFKIWmiKLavfNrsGghQfxBB/shBeWOrLm7jy980ujKwm0xq9pIRCdqDQo+yHiCcNQ50EH2X8ifYPxEQVFNhsMH0olHUFlorQB4EaJVgKwFAtodsw7JLrbC8L3z/r8D0VQyUAVO3UnIJUDCVXdDsUGtlBL027pKaky7wrV5o8ueEIl/rHADy64MlbL+KL5OOWRkMg6Fwl3IlkOxDdIaB4GORF7IunaAOAZhGzYy2ngs5hj60w=="
+    "sig":  "DgkUeLU93CCbR1hYxfYmFYcYx08BpMiYRYUYUO0g7oxJvNF8Qdo055EdIclMBT1J7tFtY0MLIHoEunuX2vqpiITdukwMYU8Kijet7q1fw3IkSkhr3xIy+GdeSzgGHLXkYG9yG2fp1WLaH1T92J9NbNLVpPghX40pGTv6cg+VQ4HHGYxTvLPRZLiomYoJ1eA5WB4tpwDt2Z+bf/ImbS+j+hZc4SWL4Nitxofeqpl5HxNo3f+i6yh/p0puxxZsjK/GFJpi6e4pgsRnXVKD0cMK05YZqEz6B59kXE54l1K1tpK8979SeXXvILTVebuutf5oyZvuYMg2HaNz3dHdo1hMfg=="
 }
