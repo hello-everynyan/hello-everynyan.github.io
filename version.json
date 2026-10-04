@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.3",
-    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.3.exe",
-    "sha256":  "ccb8f9ee05021451dbcec0b6840f8053f036dbc52b20036cad63909349b2ed33",
-    "notes":  "fixes: the dashboard picks up updates, journal opens right",
+    "version":  "0.1.4",
+    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.4.exe",
+    "sha256":  "6643d0419032955745ffa66424d7f95444b44b39804fd05c08b9cfcb08a45018",
+    "notes":  "easter eggs :3 and a sleepy-at-night switch",
     "page":  "https://hello-everynyan.github.io/",
     "feed":  "",
-    "sig":  "DgkUeLU93CCbR1hYxfYmFYcYx08BpMiYRYUYUO0g7oxJvNF8Qdo055EdIclMBT1J7tFtY0MLIHoEunuX2vqpiITdukwMYU8Kijet7q1fw3IkSkhr3xIy+GdeSzgGHLXkYG9yG2fp1WLaH1T92J9NbNLVpPghX40pGTv6cg+VQ4HHGYxTvLPRZLiomYoJ1eA5WB4tpwDt2Z+bf/ImbS+j+hZc4SWL4Nitxofeqpl5HxNo3f+i6yh/p0puxxZsjK/GFJpi6e4pgsRnXVKD0cMK05YZqEz6B59kXE54l1K1tpK8979SeXXvILTVebuutf5oyZvuYMg2HaNz3dHdo1hMfg=="
+    "sig":  "FvGwPB5Pf2QMwWKQptkNoomn1bZ1qSfL8CwvINEThWGcjDNLi+RTZyVqJ2vHdA4gDMZ6111i9JTXZ6ZRvsbAatTW8sGJpqVKq4nsSN7ckiBakRMDiTx7yDl1Z99szwHgPMMqvSQjS+QhYwAfld7UC41Yl7nJwEt3hsXzIaifXqToLeNuTTtoEnlFQmHTa65BNffr2IpcI3iOS5FKvcRIHFwFhZDXTnKIsKZyUS9jNq60QPultUsVdwG00+wCRGTLZrEH1EnL+hYYhKwTKbe718vnThFe6C/ThRYvOCjhjhhhkf2LY3wwHfJOdKCpk+rzcTjnNYR4Z0PQ/0rSwRW4vA=="
 }
