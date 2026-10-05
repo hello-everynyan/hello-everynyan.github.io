@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.10",
-    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.10.exe",
-    "sha256":  "b39e737bdef1e5e4694af36b6cd5419194993c1f544fad718b9a491980a94351",
-    "notes":  "a nicer glide :3",
+    "version":  "0.1.11",
+    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.11.exe",
+    "sha256":  "e54d812866223823250fff9b9d11d991aed83c93f723e4c071a0abfeb75c0b89",
+    "notes":  "new cats + outfits :3",
     "page":  "https://hello-everynyan.github.io/",
     "feed":  "",
-    "sig":  "ffTF986+Pq3vA2FlbaoFkWgu/e6f6XM7tp2HqZkLa31EIKeBOcwjBGWoIjShUvgpORO8eYqfg699Nc+HBx+PjQCVwSGpXKFnUU799YXVsCk6+szdRboJq6HdePwOtlu+IJsKy+PnklxTjgqNZPHv/Y0tZ1nw4a+ykEyhdmaXxz9jzqQmvlGxYK609zUqEHhN5hVtlcG9wH4Z6FTf4SNTl9IM7rtO6BLNkOLRSDWM5DbbyQkFDwNdsutAgR2y7OChUaV5lEyNjDw1RQPrGZa8NE1R4EZF9UpdJwoq7XvZJq5QsRfezVJeV0tzlQ6k3+blQ+tbT/rtHyNJrrb8Vg+iFw=="
+    "sig":  "ShIZeXemHUm7/st0TZ8GUw00Upj+S20T61nm/kd+YIroLR6Sb88T4rBRXSB1anYhl2sFD5xoDgfRWDG7BMNl3IQAlTGhdCWMRb5YLTUfFJn84DjchRnKU4LNGX3UCfm8JSTEgX9u28QMmseKmasZzTFuLfiOTuOZcOvYikgHNzFxd2xF+JRaaBdsMec2aPZvwQPiXMQRdFF4ViBvTcx4PANi82iegayaT2Riy39yeadMrvbmrYyIh/DtD7FGKxtIVmjtBFwdIvZQ2T1U6txbk1IIHsAX6g4px3zDXSEeZtHmik7S/YprPYz4YpEW4+0FdGg+DP0fPb5pX8ffo3437w=="
 }
