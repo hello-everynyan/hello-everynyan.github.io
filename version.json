@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.11",
-    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.11.exe",
-    "sha256":  "e54d812866223823250fff9b9d11d991aed83c93f723e4c071a0abfeb75c0b89",
-    "notes":  "new cats + outfits :3",
+    "version":  "0.1.12",
+    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.12.exe",
+    "sha256":  "3d15e5e2e544d3d43f76e9b36edf33ea9238fb937b3a4fe68403200b81102d51",
+    "notes":  "gold nyan + goal stars :3",
     "page":  "https://hello-everynyan.github.io/",
     "feed":  "",
-    "sig":  "ShIZeXemHUm7/st0TZ8GUw00Upj+S20T61nm/kd+YIroLR6Sb88T4rBRXSB1anYhl2sFD5xoDgfRWDG7BMNl3IQAlTGhdCWMRb5YLTUfFJn84DjchRnKU4LNGX3UCfm8JSTEgX9u28QMmseKmasZzTFuLfiOTuOZcOvYikgHNzFxd2xF+JRaaBdsMec2aPZvwQPiXMQRdFF4ViBvTcx4PANi82iegayaT2Riy39yeadMrvbmrYyIh/DtD7FGKxtIVmjtBFwdIvZQ2T1U6txbk1IIHsAX6g4px3zDXSEeZtHmik7S/YprPYz4YpEW4+0FdGg+DP0fPb5pX8ffo3437w=="
+    "sig":  "WjSwW+VKOD64fTjS35kyc4BoaPIXOv/twmqqLMrPDx3zAGWBPU8cUETO+FK5C6m/S3QfADUiFY6cMjbILcVUkPkI4o27Ik0wv+f0tr0Pz2W2yS7IyciCPjuUD3J5xWO988YNY7TO46OFEUp4+yKBhSPs89ViBORLzeZa/3XzHoinzJueIZibQLq6pBXtOd7zXAnhp0ByKBkzilAXW/MNAj9GitqLrL1XE9btBXA5RCYYjjQS2OK2HWVyl+GHI7INUY31vbZiyr8/FRwWg2ameV2DY1kd+oZTVIpyDMsq5jjyMQfn+CBGjlJbLtXlcsbK+3OdaX9HZmmcQXFIEFjocQ=="
 }
