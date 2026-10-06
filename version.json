@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.13",
-    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.13.exe",
-    "sha256":  "f249941b21a2d5d0d855f79562e53fc0b269e2cce12f90f525f8e08231821107",
-    "notes":  "a shop is coming :3",
+    "version":  "0.1.14",
+    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.14.exe",
+    "sha256":  "b04155072518904ce43b8d6aa3b75d587f11b5179a3bb2a155b5512ac557007d",
+    "notes":  "smoother timers :3",
     "page":  "https://hello-everynyan.github.io/",
     "feed":  "",
-    "sig":  "ggq+N+RWKYAXt3gfTaGtaMnJiIlCR4KRicTbSot7ITSK1DfuBn8qnkRzhkiqLpOpdq5uQ1VZjjE0iTgGjnk/mT/OviMB6JCu5IIVym8PDBVUnKmNO0TURAaMiNJQp5OnPTpd3j0qIDPZW6gOg1ZejZThijstXGlv/P8Mf9yKCDvC1E8wgiZStpz5be3qXvG+HoWb2eps1SAWrOdvI1p0hx4TaOjXQg8waNNQQdOEjuVjuC/QF/l4RkIj0DZCOhTtqbhAdm/AvwEnfFfq/MnB69lvVUMQYubbaZTEEohnMNq5fA6xnIytNYehm5UyGDY2CrvDOaozGd9yCsVL//V6DA=="
+    "sig":  "cmfkgwf6EfYRkNPiY7Wcg0xWbGC9rZInrOpNl0RLAx5r/a3wFL7mxjFqxCrm0jXO541ccTzb3QcKxBWD5zOHxPNg3AnGd0ByYYqx8X6LoCreOGBngwS9HZMhwiI3/vohV9eUPouZWvwbV1xNgknkJ8LGhvUvxlX8vC7kDB2NhHBZO7f8trD14vdKkxI5huEgF64YNoSVFFqsT4B3s5eMw1FwzFoHePf6IT3SC31/VJSjB13GFHihdmjgclgHX+7vtIHTCybUooNsLAnXctEb7Eq5W0DqDRV2aPOmLJiNNfM5mMg7O74j9uK0naLCSNLyeTtIWpyyDn3pSJB6z7HElg=="
 }
