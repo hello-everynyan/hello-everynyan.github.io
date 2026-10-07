@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.15",
-    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.15.exe",
-    "sha256":  "b67754704481350131af25362d85002a326d00150c7569e56d0cef38031a7c12",
-    "notes":  "small polish :3",
+    "version":  "0.1.16",
+    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.16.exe",
+    "sha256":  "003444235b920230601b91798897e1b6587eb62a4475dc6a6f2accb163674006",
+    "notes":  "projects + month goals :3",
     "page":  "https://hello-everynyan.github.io/",
     "feed":  "",
-    "sig":  "HuJjffeW5d14G5H9NSWPyoK5goE2WuHu9oPFLdYWQnecxw5MqbVs4HirABJ0U1HN1BqXLylnP9vBCkyuigoTAMrfcpt+KeOQ+4+PMOjyDf+KMzA410OLRjiYFStCoyHB7+xDnbcJsCLxEYURkgZ8EeqP1m5J1FJlClo1YP1Pb+bnSae3zwECn8wpBsy7q1Xv2DjMHIl7ZZMTaDI0raipPtsOgTnBAOrhyLci0HnLuI9XO6ba/DN8r+JBGjoRRyCBHYIcY+SbQOM/HxezcFbJNQwn2syNPfr6PmMwxwyN6I0UdIrpzoy6t8BEm5Dl4SJVZ7FlZX67336ruZ27ffB9Yw=="
+    "sig":  "R4FgNXiWXL/3vOKHJam+JLuOBBzHxLfemQdaQ5sH5WgXEAV+TdYaB8WyyLuLJnk6b9rs/PkLyh7nnPgPDavlhTNogeHsJnWhUIk6nFM3E1aMyutRoahjMoK+AyRAUW0ZH+d+blla7T/moEIZpQ7UlxkAj+EJrVnrGU6v+S1nMDUmV0pkTD9CsJXuZoJBelBPbUd+6vnAL6ZbbqU3u28ndtQgMlHdZlvPzjmIGUZttuu3KxOIGFs2yuSr3td735ikb23agAr12oMkSo9h0RoDLpTOWl+8v2OCgvZB0sN+TeCkzgga8c027JF0TgdS4wE5YQcTktIjSR+U1IsHjhFfTA=="
 }
