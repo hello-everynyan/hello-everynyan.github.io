@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.17",
-    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.17.exe",
-    "sha256":  "1d5fafe9e981a4861912da9289017676184b1f8a7a13cf9c5b30215d41e2cce2",
-    "notes":  "tidier settings :3",
+    "version":  "0.1.18",
+    "url":  "https://hello-everynyan.github.io/download/HelloEverynyan-0.1.18.exe",
+    "sha256":  "7f5442419a6a7f819fce16de9f4f8e2975ed767cfdbe9f6a3310bf6f63c9acc8",
+    "notes":  "small fixes :3",
     "page":  "https://hello-everynyan.github.io/",
     "feed":  "",
-    "sig":  "GjKO8U1d5jJpJ/5bg1YxrpCvVVvS2qFpCvCb9FPxSu4c6V8c1bKPcLrDNY7LJWJI1IgM5jd8DPeHWuAQF5yB5Pt8MeXJWUNyKlqdA5yioHuuZys5gUuLZh16sU7dV4trRpP/sTS4iViEHUl6IocDiNbdMcODlZPTU743bukw1E8v4EcgAhpduCYZAswzNfeyx2pyyBeR4Vl3ksLjPlJ+bUjC+8h42W/azWQ0BCWr0aFI7z7RsVDtKdFuMB4nwHd+i5Kq6Jg7HGi280hXwWqyrjOI6EodqLUtTiolKENjYLHduKU9O1YRImnweGgw9Uhgtb7J6B9i3dLDvsstjljRrQ=="
+    "sig":  "n1gxhAvM+jSkOR7zmfdNl1DyShpyYvSTSEA24uI6NdPv+fzlBK4t2/UsYEg4ElGCeGa/SoW2hCdL2Pc0izP//nKO7lqXRlORCne3xE+f1dRnGqTj07KSAz3njbYM4f9ZWZzv97tXgiA7jE0CJd8unhcqcWSGQuNwqnP5o5Y3WKIlRMCadZIVDq/ZWIVeEjVKrnZ5fG7ko9VJdYiHcshJNZkU5rWosjYrxF2AnifCbhDxc9u17NtUe0OKdqB7SauRZ1NNVQCtfabxdxAbWNYP/ZEdaFDu6e9sQa2EEjrFj2qWjRkktdqoCOPlrL7oiO3+UfLDIlZKpkFJgMQrdlL/0g=="
 }
